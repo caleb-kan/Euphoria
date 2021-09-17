@@ -1,4 +1,4 @@
-Euphoria ——
+Euphoria —
 Open-sourced De-centralized Platform. 
 ——————————————————————————————————————————————————————————————
 Cotributitions to the website/platform will be tokenized and recognized. 
